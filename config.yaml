@@ -1,0 +1,7 @@
+#path
+train: data/images/train #train images
+val: data/images/validation #val images
+
+#Classes
+nc: 2 #number of classes
+names: ['Emergency','Need Help']
